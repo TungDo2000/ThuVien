@@ -1,0 +1,18 @@
+D:\HỌC TẬP\lambaiho\QL_ThuVien\DATA\bin\Debug\DATA.dll.config
+D:\HỌC TẬP\lambaiho\QL_ThuVien\DATA\bin\Debug\DATA.dll
+D:\HỌC TẬP\lambaiho\QL_ThuVien\DATA\bin\Debug\DATA.pdb
+D:\HỌC TẬP\lambaiho\QL_ThuVien\DATA\obj\Debug\DATA.dll
+D:\HỌC TẬP\lambaiho\QL_ThuVien\DATA\obj\Debug\DATA.pdb
+D:\HỌC TẬP\lambaiho\QL_ThuVien\DATA\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\DATA\bin\Debug\DATA.dll.config
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\DATA\bin\Debug\DATA.dll
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\DATA\bin\Debug\DATA.pdb
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\DATA\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\DATA\obj\Debug\DATA.dll
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\DATA\obj\Debug\DATA.pdb
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\DATA\bin\Debug\DATA.dll.config
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\DATA\bin\Debug\DATA.dll
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\DATA\bin\Debug\DATA.pdb
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\DATA\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\DATA\obj\Debug\DATA.dll
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\DATA\obj\Debug\DATA.pdb

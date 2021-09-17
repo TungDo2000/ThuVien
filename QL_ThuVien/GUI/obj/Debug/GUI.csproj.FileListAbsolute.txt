@@ -1,0 +1,69 @@
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\bin\Debug\GUI.exe
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\bin\Debug\GUI.pdb
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\obj\Debug\GUI.exe.licenses
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\obj\Debug\GUI.exe
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\obj\Debug\GUI.pdb
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\bin\Debug\BUSINESS.dll
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\bin\Debug\DATA.dll
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\bin\Debug\BUSINESS.pdb
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\bin\Debug\DATA.pdb
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\obj\Debug\GUI.TrangChu.resources
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\obj\Debug\GUI.FormDangNhap.resources
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\obj\Debug\GUI.FormQLSach.resources
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\obj\Debug\GUI.FormMuonSach.resources
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\obj\Debug\GUI.FormMuonPhong.resources
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\obj\Debug\GUI.FormGiaHan.resources
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\obj\Debug\GUI.FormTraSach.resources
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\obj\Debug\GUI.FormTimKiem.resources
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\obj\Debug\GUI.FormDangKi.resources
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\obj\Debug\GUI.FormXemThongTin.resources
+D:\HỌC TẬP\lambaiho\QL_ThuVien\GUI\obj\Debug\GUI.FormDocGia.resources
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\obj\Debug\GUI.exe
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\obj\Debug\GUI.pdb
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\bin\Debug\GUI.exe
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\bin\Debug\GUI.pdb
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\bin\Debug\BUSINESS.dll
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\bin\Debug\DATA.dll
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\bin\Debug\BUSINESS.pdb
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\bin\Debug\DATA.pdb
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\obj\Debug\GUI.FormDangKi.resources
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\obj\Debug\GUI.FormDangNhap.resources
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\obj\Debug\GUI.FormDocGia.resources
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\obj\Debug\GUI.FormGiaHan.resources
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\obj\Debug\GUI.FormMuonSach.resources
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\obj\Debug\GUI.FormQLSach.resources
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\obj\Debug\GUI.FormMuonPhong.resources
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\obj\Debug\GUI.FormTimKiem.resources
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\obj\Debug\GUI.FormTraSach.resources
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\obj\Debug\GUI.FormXemThongTin.resources
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\obj\Debug\GUI.TrangChu.resources
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\GUI\obj\Debug\GUI.exe.licenses
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\obj\Debug\GUI.exe
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\obj\Debug\GUI.pdb
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\bin\Debug\GUI.exe
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\bin\Debug\GUI.pdb
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\bin\Debug\BUSINESS.dll
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\bin\Debug\DATA.dll
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\bin\Debug\BUSINESS.pdb
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\bin\Debug\DATA.pdb
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\obj\Debug\GUI.FormDangKi.resources
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\obj\Debug\GUI.FormDangNhap.resources
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\obj\Debug\GUI.FormDocGia.resources
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\obj\Debug\GUI.FormGiaHan.resources
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\obj\Debug\GUI.FormMuonSach.resources
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\obj\Debug\GUI.FormQLSach.resources
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\obj\Debug\GUI.FormMuonPhong.resources
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\obj\Debug\GUI.FormTimKiem.resources
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\obj\Debug\GUI.FormTraSach.resources
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\obj\Debug\GUI.FormXemThongTin.resources
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\obj\Debug\GUI.TrangChu.resources
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Đồ Án năm 3\DoAn_PTTK_QLTV\QL_ThuVien\GUI\obj\Debug\GUI.exe.licenses
